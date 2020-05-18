@@ -1,0 +1,109 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.top-container {
+  background-color: #def4f0;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.pro {
+  text-decoration: underline;
+}
+h1{
+  font-size: 5.625em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #9a1f40;
+}
+h2 {
+  font-family: 'Josefin Slab', serif;
+  color: #d9455f;
+  font-size: 2.5rem;
+}
+h3 {
+  font-family: 'Josefin Slab', serif;
+  color: #d9455f;
+}
+h4 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #d9455f;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+.munich {
+  width: 100%;
+}
+.profile-picture {
+  height: 100px;
+}
+.subtitle {
+  margin-top: 0;
+  color: #9a1f40;
+}
+a {
+  color: #9a1f40;
+  font-weight: normal;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.lorem {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.staytuned {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.lorem-skill {
+  text-alight: left;
+}
+.bottom-container {
+  background-color: #74d4c0;
+  margin-top:60px;
+  padding: 30px;
+}
+hr {
+  border: dotted #9a1f40 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.footer-link {
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.btn {
+  text-decoration: none;
+}
+.copyright {
+  font-size: 0.75rem;
+  color: #EAF6F6;
+}
